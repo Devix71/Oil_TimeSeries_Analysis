@@ -5,7 +5,7 @@ There is an asymmetric relationship between these two variables, with the pump p
 <br>
 The data concerning the average price per gallon of fuel in the United States was taken from the Kaggle website (Ruanova, 2021). These observations originally had a weekly frequency and were converted to a monthly frequency. Column A2 was chosen because it contains fuels commonly used by the general population (diesel and gasoline). These data were coded under the name Oprice for analysis.
 	As for the oil price per barrel data, these data were taken from the Indexmundi website which centralised the data provided by the World Bank (World Bank, 2021). These observations represent the dollar value of a barrel of oil according to OPEC. These data have been renamed Coprice for analysis.
-<br>
+<br> <br>
 Sources: <br>
 •	Severin Borenstein, A. Colin Cameron, Richard Gilbert, Do Gasoline Prices Respond Asymmetrically to Crude Oil Price Changes?, The Quarterly Journal of Economics, Volume 112, Issue 1, February 1997, Pages 305–339, https://doi.org/10.1162/003355397555118 <br>
 •	Mau Ruanova. „U.S. Gasoline and Diesel Retail Prices 1995-2021”. Kaggle (2021). URL: https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021
